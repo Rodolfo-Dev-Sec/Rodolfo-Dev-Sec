@@ -8,7 +8,7 @@
 <p>
   Oi 👋, Eu me chamo Rodolfo Neves! Sou amante de programação e segurança da informação.
 
-  - 🌱 Atualmente estudo desenvolvimento web front/back end e segurança da informação.
+  - 🌱 Atualmente estudo desenvolvimento web front/back-end e segurança da informação.
 
   - 🔭 Em busca da primeira oportunidade no ramo da tecnologia como desenvolvedor web.
 </p>
